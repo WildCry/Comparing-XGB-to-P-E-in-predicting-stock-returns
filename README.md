@@ -1,4 +1,4 @@
-# Performance of XGBoost compared to con- ventional technical stock analysis for pre- dicting returns
+# Performance of XGBoost compared to conventional technical stock analysis for predicting returns
 Comparing modern data science tools and machine learn- ing to conventional stock analysis techniques
 
 This is the code repository for my midterm paper in Decision Theory and Corporate Finance v23 at NTNU.
